@@ -91,7 +91,7 @@ by manipulating some experimental data from a hearing test. To get
 the data for this test, you will need internet access. Just enter the
 command:
 
-    git clone https://gabayae@bitbucket.org/gabayae/aimssnscicomp2020.git InPy
+    git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
 
 Followed by:
 
