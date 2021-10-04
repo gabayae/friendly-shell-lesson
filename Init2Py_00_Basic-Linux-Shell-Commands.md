@@ -1,14 +1,8 @@
-<center>
-    <a href="https://www.aims-senegal.org/" ><img src="aimssn_logo.png" style="float:center; max-width: 600px; display: inline" alt="IMSP"/> </a>
-    </center>
-
-#    <center> <b> <span style="color:orange;" >  `Python for Scientific Computing and Software Engineering ` </span> </b></center>
+ 
 
 
-## <center> <b> <span style="color:orange;"> An initiation to programming using Python </span> </b></center>
 
-### <center> <b> <span style="color:blue;"> Basic Linux Shell Commands </span> </b></center>
-
+## <h2 align="center"><span style="color:orange;">                   `Basic Linux Shell Commands`        </span></h2>
 
 
 
